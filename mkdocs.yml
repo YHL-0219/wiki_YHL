@@ -1,0 +1,7 @@
+site_name: My Docs
+
+theme: 'material'
+
+nav:
+	- Home: index.md
+	- YHL:  test.md
